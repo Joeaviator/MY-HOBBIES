@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color:#E30606;
+  font-family:Oxygen;
+  text-align:center;
+  font-weight:800%;
+  text-decoration:underline;
+}
+h2{
+  color:#E30606;
+  font-family:Oxygen;
+  text-align:center;
+  font-weight:800%;
+  text-decoration:underline;
+}
+.container{
+  color:#5406e5;
+  font-family:Arial;
+  background-color:#c9c9c9;
+}
+.container-fluid{
+  color:#06e515;
+  font-family:Arial;
+  background-color:#120502;
+}
+.container-breakpoints{
+  color:#06d6e5;
+  font-family:Arial;
+  background-color:#4d4d4d;
+}
+
